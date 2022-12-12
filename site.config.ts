@@ -11,15 +11,15 @@ export default siteConfig({
   // basic site info (required)
   name: '克拉玛的博客',
   domain: 'https://kramer98.notion.site/df2303cf9ad0447896c6b0e6350f1da6',
-  author: '一些生活的反思，一些人生的感想。',
+  author: 'Kramer',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: '',
+  github: '',
+  linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
